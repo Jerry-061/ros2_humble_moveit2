@@ -1,0 +1,24 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from my_robot_interfaces/msg/PoseCommand.msg
+// generated code does not contain a copyright notice
+
+
+module my_robot_interfaces {
+  module msg {
+    struct PoseCommand {
+      double x;
+
+      double y;
+
+      double z;
+
+      double roll;
+
+      double pitch;
+
+      double yaw;
+
+      boolean cartesian_path;
+    };
+  };
+};

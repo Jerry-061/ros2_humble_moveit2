@@ -1,0 +1,6 @@
+{
+  "package_name": "my_robot_interfaces",
+  "non_idl_tuples": [
+    "/home/pc/ros2_humble_moveit2/ros2_ws/src/my_robot_interfaces:msg/PoseCommand.msg"
+  ]
+}
