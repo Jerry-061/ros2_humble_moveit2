@@ -1,9 +1,0 @@
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/uninstall.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/my_robot_moveit_config_uninstall.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/test.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/edit_cache.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/rebuild_cache.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/list_install_components.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/install.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/install/local.dir
-/home/pc/ros2_humble_moveit2/ros2_ws/build/my_robot_moveit_config/CMakeFiles/install/strip.dir
