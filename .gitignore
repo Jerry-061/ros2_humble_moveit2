@@ -1,16 +1,15 @@
-    # 忽略编译生成目录
-    build/
-    install/
-    log/
+# 忽略编译生成目录
+build/
+install/
+log/
 
-    # 忽略 src 下误生成的 build 目录
-    src/build/
+# 忽略 src 下误生成的 build 目录
+src/build/
 
-    # 忽略 Python 缓存
-    __pycache__/
-    *.pyc
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
 
-    # 忽略 IDE 配置
-    .idea/
-    .vscode/
-    
+# 忽略 IDE 配置
+.idea/
+.vscode/
